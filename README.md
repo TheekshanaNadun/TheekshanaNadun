@@ -1,4 +1,4 @@
-##Hi there, I'm Theekshana Nadun 👋
+## Hi there, I'm Theekshana Nadun 👋
 
 Welcome to my GitHub profile! I'm an undergraduate Software Engineering student passionate about creating innovative software solutions. I specialize in web development, user interface design, and machine learning.
 
