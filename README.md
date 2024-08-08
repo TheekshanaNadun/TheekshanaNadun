@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi there, I'm Theekshana Nadun 👋
+
+Welcome to my GitHub profile! I'm an undergraduate Software Engineering student passionate about creating innovative software solutions. I specialize in web development, user interface design, and machine learning.
+
 
 <!--
 **TheekshanaNadun/TheekshanaNadun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
