@@ -1,6 +1,6 @@
 ## Hi there, I'm Theekshana Nadun 👋
 
-Welcome to my GitHub profile! I'm an undergraduate Software Engineering student passionate about creating innovative software solutions. I specialize in web development, user interface design, and machine learning.
+Welcome to my GitHub profile! I'm an undergraduate Software Engineering student passionate about creating innovative software solutions. I specialize in Machine Learning, MLOps, and Data Analysis.
 
 
 <!--
@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm an undergraduate Software Engineering student 
 ## 🔭 I’m currently working on ...
 - Enhancing the **Ceylon Happens** platform with new features and improved UI.
 - Developing an **Automated Finance Tracking and Analysis Tool** to boost productivity.
+- Enhancing the **MY Portfolio** platform with new features and improved UX.
 
 ## 🌱 I’m currently learning ...
 - Advanced Machine Learning Techniques
@@ -23,13 +24,14 @@ Welcome to my GitHub profile! I'm an undergraduate Software Engineering student 
 
 ## 🤔 I’m looking for help with ...
 - Optimizing algorithms for large-scale data processing
-- Implementing best practices in UI/UX design
+- Fine-tuning LLM
 
 ## 💬 Ask me about ...
 - Web Development
 - User Interface Design
 - Agile Software Development
-- Machine Learning Basics
+- Machine Learning
+- Artificial intelligence 
 
 ## 📫 How to reach me ...
 - Email: [theekshananb4174@gmail.com](mailto:theekshananb4174@gmail.com)
@@ -40,4 +42,4 @@ Welcome to my GitHub profile! I'm an undergraduate Software Engineering student 
 - He/Him
 
 ## ⚡ Fun fact ...
-- I once climbed almost 3 km to reach Rumassala Jungle Beach without knowing about it beforehand!
+- The only thing that excites me is improving myself.
