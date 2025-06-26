@@ -59,7 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheekshanaNadun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Theekshana's GitHub Stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheekshanaNadun&theme=tokyonight" alt="Theekshana's GitHub Streak" /><br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheekshanaNadun&theme=tokyonight" alt="GitHub Streak"/></a><br>
   <img src="https://github-profile-trophy.vercel.app/?username=TheekshanaNadun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
