@@ -6,7 +6,7 @@
 
 <br>
 
-<p>Welcome to my digital workshop! I'm a passionate Software Engineering undergraduate in my final year, specializing in <strong>Machine Learning</strong>, <strong>MLOps</strong>, and <strong>Data Analysis</strong>. I thrive on building innovative software solutions and am currently honing my skills as a <strong>Full-Stack Developer Intern</strong> using technologies like <strong>Vue.js, Nuxt.js, Laravel, and Node.js</strong>.</p>
+<p>Welcome to my digital workshop! I'm a passionate Full Stack Enginer, specializing in <strong>Laravel</strong>, <strong>Vue.js</strong>, and <strong>Nuxt</strong>. I thrive on building innovative software solutions and am currently honing my skills as a <strong>Full-Stack Developer Intern</strong> using technologies like <strong>Nuxt.js and Node.js</strong>.</p>
 
 <div>
   <a href="mailto:theekshananb4174@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
