@@ -20,8 +20,8 @@
 
 ### ✨ A Little More About Me
 
-- 🔭 I’m currently working on enhancing the **Ceylon Happens** platform and developing an **Automated Finance Tracking Tool**.
-- 🌱 I’m deepening my knowledge in **Advanced ML Techniques** and **Mobile App Development**.
+- 🔭 I’m currently working on enhancing the ** EventHappens** platform and developing an **Automated Finance Tracking Tool**.
+- 🌱 I’m deepening my knowledge in **Advanced ML Techniques**.
 - 👯 I’m open to collaborating on **Open-Source Machine Learning** and innovative **Web Development** projects.
 - 🤔 I'm seeking insights on optimizing algorithms for **large-scale data processing** and fine-tuning **Large Language Models (LLMs)**.
 - 💬 Ask me about **Full-Stack Development**, **UI/UX Design**, **Agile Methodologies**, and all things **AI/ML**!
